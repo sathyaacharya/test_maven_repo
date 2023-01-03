@@ -9,7 +9,7 @@ pipeline {
     }
     
 	agent {
-     label 'CI-Jenkins-Slave'
+     label 'CI-CD-jenkins'
   }
   
   stages {
